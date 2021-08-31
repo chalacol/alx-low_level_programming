@@ -1,5 +1,4 @@
 #include "main.h"
-#include "holberton.h"
 
 /**
  * main - Entry point, prints ""Holberton" to the standard output
